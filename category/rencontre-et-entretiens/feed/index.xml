@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Rencontres &amp; entretiens</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Sun, 13 Feb 2022 19:12:20 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2022/02/Merinos-150x150.png</url>
+	<title>Rencontres &amp; entretiens</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Alexandre Echasseriau</title>
+		<link>./../../../2022/02/13/alexandre-echasseriau/index.html</link>
+		
+		<dc:creator><![CDATA[Amédée]]></dc:creator>
+		<pubDate>Sun, 13 Feb 2022 19:10:29 +0000</pubDate>
+				<category><![CDATA[Rencontres & entretiens]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=213</guid>
+
+					<description><![CDATA[Historiquement, la laine de mouton a une capacité protectrice. C&#8217;est un matériau thermorégulateur, hydrophobe, résistant aux attaques chimiques et enzymatiques. Pour Alexandre Echasseriau, designer industriel, la laine constitue donc une ressource de choix pour la conception d&#8217;objets de protection. Après avoir découvert son projet Ovi-One, un ensemble de recherches pour réaliser un casque de vélo&#8230; <a class="more-link" href="./../../../2022/02/13/alexandre-echasseriau/index.html">Continue reading <span class="screen-reader-text">Alexandre Echasseriau</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p>Historiquement, la laine de mouton a une capacité protectrice. C&rsquo;est un matériau thermorégulateur, hydrophobe, résistant aux attaques chimiques et enzymatiques. Pour <a href="https://alexandreechasseriau.com/" data-type="URL" data-id="https://alexandreechasseriau.com/">Alexandre Echasseriau</a>, designer industriel, la laine constitue donc une ressource de choix pour la conception d&rsquo;objets de protection. Après avoir découvert son projet <a href="https://alexandreechasseriau.com/HELMET-95-WOOL" data-type="URL" data-id="https://alexandreechasseriau.com/HELMET-95-WOOL"><em>Ovi-One</em></a>, un ensemble de recherches pour réaliser un casque de vélo composé à 95% de laine, nous avons invité Alexandre au Pavillon pour échanger sur sa démarche, qui rejoint totalement le thème de la frugalité, sujet principal de l&rsquo;année 2021|2022 au Master 4 Écoles.</p>
+
+
+
+<p>Depuis quelques années, Alexandre a aménagé son atelier dans une <em>tiny house</em> mobile super fonctionnelle et optimisée : le <em><a href="https://alexandreechasseriau.com/FLYING-FABLAB" data-type="URL" data-id="https://alexandreechasseriau.com/FLYING-FABLAB">Flying Fablab</a></em>.</p>
+
+
+
+<p><a href="https://alexandreechasseriau.com/FLYING-FABLAB">https://alexandreechasseriau.com/FLYING-FABLAB</a></p>
+
+
+
+<p>S&rsquo;il est pour l&rsquo;instant installé sur le parvis du <a href="https://www.104.fr/" data-type="URL" data-id="https://www.104.fr/">CENTQUATRE</a>, nous évoquons l&rsquo;idée qu&rsquo;il déplace son atelier dans la cour de la Manufacture des Gobelins. Il pourrait bénéficier ainsi d&rsquo;une proximité avec des spécialistes de la laine et, en échange, mettrait à disposition ce lieu de création aux étudiants du Master.</p>
+
+
+
+<p>La question des médiums de traitement des matériaux revient souvent dans l&rsquo;échange. Car en effet, nous disposons de peu de matériel pour travailler la laine. Si en effet l&rsquo;Atelier Recherche et Création dispose de machines à rendre jaloux n&rsquo;importe quel designer, leur usage est strictement encadré par les besoins du Mobilier National. Même si parfois des accords exceptionnels peuvent être trouvés, des contraintes de temps, de sécurité ou de risques d&rsquo;usages peuvent nuire au flux créatif : nous sommes alors convaincus que nous devons réaliser nos propres outils.</p>
+
+
+
+<p>Les procédés de traitement de la laine décrits par Alexandre nous inspirent une presse hydraulique chauffante, qui servira à réaliser les premiers échantillons, avant une possible réalisation en métrage.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

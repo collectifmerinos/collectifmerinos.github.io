@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Ressources</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Sun, 13 Feb 2022 13:47:40 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2022/02/Merinos-150x150.png</url>
+	<title>Ressources</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>« Les matériaux de la conservation »</title>
+		<link>./../../../2022/02/08/les-materiaux-de-la-conservation/index.html</link>
+		
+		<dc:creator><![CDATA[Amédée]]></dc:creator>
+		<pubDate>Tue, 08 Feb 2022 12:55:36 +0000</pubDate>
+				<category><![CDATA[Ressources]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=148</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-gallery alignwide has-nested-images columns-default is-cropped">
+<figure class="wp-block-image size-full zoooom"><img width="1807" height="2560" data-id="150"  src="./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_00-scaled.jpg" alt="" class="wp-image-150" srcset="./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_00-scaled.jpg 1807w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_00-212x300.jpg 212w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_00-723x1024.jpg 723w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_00-768x1088.jpg 768w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_00-1084x1536.jpg 1084w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_00-1446x2048.jpg 1446w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_00-1568x2221.jpg 1568w" sizes="(max-width: 1807px) 100vw, 1807px" /></figure>
+
+
+
+<figure class="wp-block-image size-full zoooom"><img loading="lazy" width="1807" height="2560" data-id="155"  src="./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_01-scaled.jpg" alt="" class="wp-image-155" srcset="./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_01-scaled.jpg 1807w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_01-212x300.jpg 212w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_01-723x1024.jpg 723w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_01-768x1088.jpg 768w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_01-1084x1536.jpg 1084w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_01-1446x2048.jpg 1446w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_01-1568x2221.jpg 1568w" sizes="(max-width: 1807px) 100vw, 1807px" /></figure>
+
+
+
+<figure class="wp-block-image size-full zoooom"><img loading="lazy" width="1807" height="2560" data-id="152"  src="./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_02-scaled.jpg" alt="" class="wp-image-152" srcset="./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_02-scaled.jpg 1807w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_02-212x300.jpg 212w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_02-723x1024.jpg 723w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_02-768x1088.jpg 768w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_02-1084x1536.jpg 1084w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_02-1446x2048.jpg 1446w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_02-1568x2221.jpg 1568w" sizes="(max-width: 1807px) 100vw, 1807px" /></figure>
+
+
+
+<figure class="wp-block-image size-full zoooom"><img loading="lazy" width="1807" height="2560" data-id="153"  src="./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_03-scaled.jpg" alt="" class="wp-image-153" srcset="./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_03-scaled.jpg 1807w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_03-212x300.jpg 212w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_03-723x1024.jpg 723w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_03-768x1088.jpg 768w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_03-1084x1536.jpg 1084w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_03-1446x2048.jpg 1446w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_03-1568x2221.jpg 1568w" sizes="(max-width: 1807px) 100vw, 1807px" /></figure>
+
+
+
+<figure class="wp-block-image size-full zoooom"><img loading="lazy" width="1807" height="2560" data-id="154"  src="./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_04-scaled.jpg" alt="" class="wp-image-154" srcset="./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_04-scaled.jpg 1807w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_04-212x300.jpg 212w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_04-723x1024.jpg 723w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_04-768x1088.jpg 768w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_04-1084x1536.jpg 1084w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_04-1446x2048.jpg 1446w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_04-1568x2221.jpg 1568w" sizes="(max-width: 1807px) 100vw, 1807px" /></figure>
+
+
+
+<figure class="wp-block-image size-full zoooom"><img loading="lazy" width="1807" height="2560" data-id="151"  src="./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_05-scaled.jpg" alt="" class="wp-image-151" srcset="./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_05-scaled.jpg 1807w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_05-212x300.jpg 212w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_05-723x1024.jpg 723w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_05-768x1088.jpg 768w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_05-1084x1536.jpg 1084w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_05-1446x2048.jpg 1446w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_05-1568x2221.jpg 1568w" sizes="(max-width: 1807px) 100vw, 1807px" /></figure>
+
+
+
+<figure class="wp-block-image size-full zoooom"><img loading="lazy" width="1807" height="2560" data-id="162"  src="./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_06-1-scaled.jpg" alt="" class="wp-image-162" srcset="./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_06-1-scaled.jpg 1807w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_06-1-212x300.jpg 212w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_06-1-723x1024.jpg 723w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_06-1-768x1088.jpg 768w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_06-1-1084x1536.jpg 1084w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_06-1-1446x2048.jpg 1446w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_06-1-1568x2221.jpg 1568w" sizes="(max-width: 1807px) 100vw, 1807px" /></figure>
+
+
+
+<figure class="wp-block-image size-full zoooom"><img loading="lazy" width="1807" height="2560" data-id="164"  src="./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_07-1-scaled.jpg" alt="" class="wp-image-164" srcset="./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_07-1-scaled.jpg 1807w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_07-1-212x300.jpg 212w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_07-1-723x1024.jpg 723w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_07-1-768x1088.jpg 768w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_07-1-1084x1536.jpg 1084w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_07-1-1446x2048.jpg 1446w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_07-1-1568x2221.jpg 1568w" sizes="(max-width: 1807px) 100vw, 1807px" /></figure>
+
+
+
+<figure class="wp-block-image size-full zoooom"><img loading="lazy" width="1807" height="2560" data-id="163"  src="./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_08-1-scaled.jpg" alt="" class="wp-image-163" srcset="./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_08-1-scaled.jpg 1807w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_08-1-212x300.jpg 212w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_08-1-723x1024.jpg 723w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_08-1-768x1088.jpg 768w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_08-1-1084x1536.jpg 1084w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_08-1-1446x2048.jpg 1446w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_08-1-1568x2221.jpg 1568w" sizes="(max-width: 1807px) 100vw, 1807px" /></figure>
+
+
+
+<figure class="wp-block-image size-full zoooom"><img loading="lazy" width="1807" height="2560" data-id="165"  src="./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_09-1-scaled.jpg" alt="" class="wp-image-165" srcset="./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_09-1-scaled.jpg 1807w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_09-1-212x300.jpg 212w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_09-1-723x1024.jpg 723w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_09-1-768x1088.jpg 768w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_09-1-1084x1536.jpg 1084w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_09-1-1446x2048.jpg 1446w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_09-1-1568x2221.jpg 1568w" sizes="(max-width: 1807px) 100vw, 1807px" /></figure>
+
+
+
+<figure class="wp-block-image size-full zoooom"><img loading="lazy" width="1807" height="2560" data-id="167"  src="./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_10-1-scaled.jpg" alt="" class="wp-image-167" srcset="./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_10-1-scaled.jpg 1807w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_10-1-212x300.jpg 212w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_10-1-723x1024.jpg 723w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_10-1-768x1088.jpg 768w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_10-1-1084x1536.jpg 1084w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_10-1-1446x2048.jpg 1446w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_10-1-1568x2221.jpg 1568w" sizes="(max-width: 1807px) 100vw, 1807px" /></figure>
+
+
+
+<figure class="wp-block-image size-full zoooom"><img loading="lazy" width="1807" height="2560" data-id="169"  src="./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_11-1-scaled.jpg" alt="" class="wp-image-169" srcset="./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_11-1-scaled.jpg 1807w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_11-1-212x300.jpg 212w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_11-1-723x1024.jpg 723w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_11-1-768x1088.jpg 768w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_11-1-1084x1536.jpg 1084w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_11-1-1446x2048.jpg 1446w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_11-1-1568x2221.jpg 1568w" sizes="(max-width: 1807px) 100vw, 1807px" /></figure>
+
+
+
+<figure class="wp-block-image size-full zoooom"><img loading="lazy" width="1807" height="2560" data-id="170"  src="./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_12-1-scaled.jpg" alt="" class="wp-image-170" srcset="./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_12-1-scaled.jpg 1807w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_12-1-212x300.jpg 212w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_12-1-723x1024.jpg 723w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_12-1-768x1088.jpg 768w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_12-1-1084x1536.jpg 1084w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_12-1-1446x2048.jpg 1446w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_12-1-1568x2221.jpg 1568w" sizes="(max-width: 1807px) 100vw, 1807px" /></figure>
+
+
+
+<figure class="wp-block-image size-full zoooom"><img loading="lazy" width="1807" height="2560" data-id="171"  src="./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_13-1-scaled.jpg" alt="" class="wp-image-171" srcset="./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_13-1-scaled.jpg 1807w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_13-1-212x300.jpg 212w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_13-1-723x1024.jpg 723w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_13-1-768x1088.jpg 768w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_13-1-1084x1536.jpg 1084w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_13-1-1446x2048.jpg 1446w, ./../../../wp-content/uploads/2022/02/Les-materiaux-de-la-conservation_13-1-1568x2221.jpg 1568w" sizes="(max-width: 1807px) 100vw, 1807px" /></figure>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
